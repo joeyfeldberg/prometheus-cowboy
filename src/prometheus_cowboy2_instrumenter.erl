@@ -112,7 +112,7 @@
                          {protocol_upgrade_labels, ?DEFAULT_PROTOCOL_UPGRADE_LABELS},
                          {request_labels, ?DEFAULT_REQUEST_LABELS},
                          {error_labels, ?DEFAULT_ERROR_LABELS},
-                         {lables_module, ?DEFAULT_LABELS_MODULE},
+                         {labels_module, ?DEFAULT_LABELS_MODULE},
                          {registry, ?DEFAULT_REGISTRY}]).
 
 %% ===================================================================
